@@ -1,0 +1,9 @@
+[package]
+authors = ["Johan Brinch <brinchj@gmail.com>"]
+name = "sudokusolver"
+version = "0.1.0"
+
+[dependencies]
+chomp = "0.3.1"
+failure = "0.1.1"
+im = "10.2.0"
